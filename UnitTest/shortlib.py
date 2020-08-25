@@ -1,0 +1,5 @@
+my_url = "https://qasvus.wordpress.com/"
+site_title = "//p[@class='site-title']//a[contains(text(),'California Real Estate')]"
+form_name = "g2-name"
+form_mail = "g2-email"
+acc_mail = "rdchenkofoto@mail.ru"
